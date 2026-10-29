@@ -6,7 +6,8 @@
 - 💡 Interested in: **Software Development, AI, and Technology**
 - 🎯 Goal: To become a skilled developer and contribute to real-world projects
 - 📫 Reach me at: **[your-email@example.com]**
-- <div align="center">
+
+  <div align="center">
 
 # 🎮 NEXUS
 ### Beyond the Grid
